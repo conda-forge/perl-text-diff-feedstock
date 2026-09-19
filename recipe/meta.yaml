@@ -1,6 +1,6 @@
 {% set name = "perl-text-diff" %}
-{% set version = "1.45" %}
-{% set sha256 = "e8baa07b1b3f53e00af3636898bbf73aec9a0ff38f94536ede1dbe96ef086f04" %}
+{% set version = "1.46" %}
+{% set sha256 = "3fc983e3140fa2580250bbcf2b52e2acbdbc5abda4374c3be78235905d8ca8eb" %}
 
 package:
   name: {{ name }}
